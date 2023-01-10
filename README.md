@@ -16,11 +16,16 @@ An Entity Relationship Diagram is included along with a table schemas for all ta
 
 ## Data Analysis
 
-The following questions were addressed in the second half of the SQL code found here: 
+The prefered method of submission for Queries for data analysis were unclear, so identical sopies were included as follows: 
 
+Queries for Data analysis can be found in the *second half* of the full SQL code as per comments within the code:  
 `EmployeeSql/EmployeeSQL_code.sql`
 
-### Questions: 
+Queries for Data analysis can be found in the *independently* here:
+`EmployeeSQL_Data_Analysis.sql`
+
+
+### Questions Addressed in Data Anlysis Queries: 
 1. List the employee number, last name, first name, sex, and salary of each employee
 2. List the first name, last name, and hire date for the employees who were hired in 1986
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name 
