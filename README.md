@@ -16,7 +16,7 @@ An Entity Relationship Diagram is included along with a table schemas for all ta
 
 ## Data Analysis
 
-The following questions were addressed in the SQL code found here: 
+The following questions were addressed in the second half of the SQL code found here: 
 
 `EmployeeSql/EmployeeSQL_code.sql`
 
