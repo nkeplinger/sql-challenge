@@ -7,6 +7,8 @@ Source data for this module are located in the `EmployeeSQL/data` directory. A t
 ## Data Modeling:
 An Entity Relationship Diagram is included along with a table schemas for all tables `EmployeeSQL_ERD.jpg` and `EmployeeSQL_schema_txt.rtf`, respectively
 
+![alt text](https://github.com/nkeplinger/sql-challenge/blob/main/EmployeeSQL/EmployeeSQL_ERD.jpg)
+
 ## Data Engineeing
 
 `EmployeeSql/EmployeeSQL_code.sql` contains SQL (postgres) code to create a table schema for each of the six CSV files. 
